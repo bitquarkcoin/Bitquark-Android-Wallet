@@ -1,0 +1,21 @@
+BTQ'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. BTQ cüzdanı ilk mobil BTQ uygulamasıdır ve muhtemelen en güvenli BTQ uygulamasıdır!
+
+İŞLEVLERİ:
+• Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
+• BTQ meblağlarının BTC ve mBTC olarak gösterilmesi.
+• Dövizlere ve dövizlerden dönüştürme.
+• NFC, QR kodu veya BTQ bağlantıları ile BTQ gönderir ve alır.
+• Sık kullanılan BTQ adresleri için adres defteri içerir.
+• Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
+• Alınan BTQ'ler için sistem bildirimleri.
+• BTQ bakiyesini görüntüleyen widget.
+
+BTQ hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
+http://www.qrk.cc/
+
+BitQuark Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
+https://github.com/Esotericizm/BitQuark-Wallet
+
+Lisans: GPLv3
+Tüm riski siz üstlenmiş olursunuz.
+http://www.gnu.org/licenses/gpl-3.0.en.html

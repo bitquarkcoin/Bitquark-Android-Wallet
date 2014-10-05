@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="symbol_to">→</string>
+	<string name="symbol_from">←</string>
+	<string name="symbol_internal">⇄</string>
+	<string name="app_name">BitQuark</string>
+
+
+
+	<string-array name="preferences_precision_values">
+		<item>5</item>
+		<item>4</item>
+		<item>2</item>
+		<item>2/3</item>
+	</string-array>
+	<string-array name="preferences_precision_labels">
+		<item>BTQ, 5 digits</item>
+		<item>BTQ, 4 digits</item>
+		<item>BTQ, 2 digits</item>
+		<item>mBTQ, 2 digits</item>
+	</string-array>
+
+</resources>

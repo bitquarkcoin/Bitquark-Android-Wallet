@@ -1,0 +1,23 @@
+Ten tus BitQuarks siempre contigo, en tu bolsillo! Paga rápidamente escaneando un código QR. Como comerciante, recibes los pagos de forma fiable e instantáneamente. BitQuark Wallet es la primera BTQ app para movil, e incluso la mas segura!
+
+CARACTERÍSTICAS:
+
+• ¡No requiere registro, servidor en la nube o servicio web! Este monedero es auténticamente entre pares (peer-to-peer).
+• Muestra la cantidad de BitQuarks en BTC y mBTC
+• Conversión a divisas nacionales.
+• Envío y recepción de BitQuarks vía NFC, códigos QR o URL de BTQ.
+• Libreta de direcciones para guardar las direcciones BTQ más utilizadas.
+• Cuando no tengas conexión, puedes seguir pagando via Bluetooth.
+• Notificación al recibir monedas.
+• Widget para el saldo de BitQuarks.
+
+Puedes descubrir más sobre BTQ en
+http://www.qrk.cc/
+
+Si quieres contribuir a BitQuark Wallet, el proyecto se encuentra en
+https://github.com/Esotericizm/BitQuark-Wallet
+
+
+Licencia: GPLv3
+¡Úsalo bajo tu propio riesgo!
+http://www.gnu.org/licenses/gpl-3.0.en.html

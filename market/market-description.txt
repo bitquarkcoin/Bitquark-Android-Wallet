@@ -1,0 +1,22 @@
+Have your BitQuarks always with you, in your pocket! You pay by quickly scanning a QR-code. As a merchant, you receive payments reliably and instantly. BitQuark Wallet is the first mobile BTQ app, and arguably also the most secure!
+
+FEATURES:
+
+• No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
+• Display of BTQ amount in BTQ and mBTQ.
+• Conversion to and from national currencies.
+• Sending and receiving of BTQ via NFC, QR-codes or BTQ URLs.
+• Address book for regularly used BTQ addresses.
+• When you're offline, you can still pay via Bluetooth.
+• System notification for received coins.
+• App widget for BTQ balance.
+
+You can find more about BTQ at
+http://www.qrk.cc/
+
+If you want to contribute to BitQuark Wallet, the project is located at
+https://github.com/Esotericizm/BitQuark-Wallet
+
+License: GPLv3
+Use at your own risk!
+http://www.gnu.org/licenses/gpl-3.0.en.html

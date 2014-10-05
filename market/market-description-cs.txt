@@ -1,0 +1,20 @@
+Tato aplikace je peněženka s BTQy pro systém Android. Můžete posílat BTQy mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
+
+VLASTNOSTI:
+
+• Zobrazení zůstatku peněženky v BTQech a několika jiných měnách.
+• Odesílání a přijímání BTQů pomocí NFC, QR-kódů, nebo BTQ adres.
+• Adresář pro často používané adresy.
+• Možnost zadávání transakcí v offline režimu, k jejich zpracování dojde po připojení.
+• Oznamování v liště při synchronizaci a při přijetí BTQů.
+• Widget s celkovým zůstatkem.
+
+Více informací o BTQech
+http://www.qrk.cc
+
+Pokud chcete přispět do projektu BitQuark Wallet, naleznete jej na adrese
+https://github.com/Esotericizm/BitQuark-Wallet
+
+License: GPLv3
+Použití pouze na vlastní riziko!
+http://www.gnu.org/licenses/gpl-3.0.en.html

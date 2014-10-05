@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>BTQ, 5位數</item>
+		<item>BTQ, 4位數</item>
+		<item>BTQ, 2位數</item>
+		<item>mBTQ, 2位數</item>
+	</string-array>
+
+</resources>

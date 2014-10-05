@@ -1,0 +1,20 @@
+Detta är en fristående BTQ plånbok för Android. Du kan skicka BitQuarks mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
+
+FUNKTIONER:
+
+• Visa plånbokens värde i BitQuarks och andra valutor.
+• Skicka och ta emot BitQuarks via NFC, QR-koder eller en BTQ URL.
+• Adressbok för de BTQ adresser man använder ofta.
+• Påbörja transaktioner medan du är offline, de utförs när du kommer online.
+• Systemnotifikationer när BitQuarks skickats till dig, och när plånboken kommunicerar med nätverket.
+• App widget som visar plånbokens värde.
+
+Du kan lära dig mer om BTQ genom att besöka
+http://www.qrk.cc/
+
+Om du vill hjälpa till med utvecklingen av BitQuark Wallet så kan du hitta projektet här
+https://github.com/Esotericizm/BitQuark-Wallet
+
+Licens: GPLv3
+Använd på egen risk!
+http://www.gnu.org/licenses/gpl-3.0.en.html

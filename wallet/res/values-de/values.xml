@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>BTQ, 8 Dezimalen</item>
+		<item>BTQ, 6 Dezimalen</item>
+		<item>BTQ, 4 Dezimalen</item>
+		<item>mBTQ, 2 Dezimalen</item>
+    </string-array>
+</resources>

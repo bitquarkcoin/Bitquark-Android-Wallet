@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>BTQ, 8 decimaler</item>
+		<item>BTQ, 6 decimaler</item>
+		<item>BTQ, 4 decimaler</item>
+		<item>mBTQ, 2 decimaler</item>
+	</string-array>
+
+</resources>
